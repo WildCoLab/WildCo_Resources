@@ -13,4 +13,4 @@ Useful resources for everything we do!
 * [WildCo Data Analysis](https://github.com/WildCoLab/WildCo_Data_Analysis)
 
 ### Data Management/Openscapes resources
-* Openscapes.txt
+* [Openscapes.txt](https://github.com/WildCoLab/WildCo-Resources/Openscapes.txt)
