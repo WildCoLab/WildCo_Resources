@@ -11,3 +11,6 @@ Useful resources for everything we do!
 
 ### Exploratory analysis
 * [WildCo Data Analysis](https://github.com/WildCoLab/WildCo_Data_Analysis)
+
+### Data Management/Openscapes resources
+* Openscapes.txt
