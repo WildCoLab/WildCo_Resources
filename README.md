@@ -9,7 +9,7 @@ Useful resources for everything we do!
 * [WildCo Data Analysis](https://github.com/WildCoLab/WildCo_Data_Analysis)
 
 ### Data Management/Openscapes resources
-* [Openscapes.txt](https://github.com/WildCoLab/WildCo_Resources/Openscapes.RMD)
+* [Openscapes](https://github.com/WildCoLab/WildCo_Resources/Openscapes.MD)
 
 ### Links to WildCo publications and other repos of interest
 
