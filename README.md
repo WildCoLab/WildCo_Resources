@@ -10,3 +10,7 @@ Useful resources for everything we do!
 
 ### Data Management/Openscapes resources
 * [Openscapes.txt](https://github.com/WildCoLab/WildCo_Resources/Openscapes.txt)
+
+### Links to WildCo publications and other repos of interest
+
+
