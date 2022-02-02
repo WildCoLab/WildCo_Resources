@@ -12,5 +12,5 @@ Useful resources for everything we do!
 * [Openscapes](https://github.com/WildCoLab/WildCo_Resources/blob/main/Openscapes.md)
 
 ### Links to WildCo publications and other repos of interest
-
+* [Use of object detection in camera trap image identification: assessing a method to rapidly and accurately classify human and animal detections for research and application in recreation ecology](https://github.com/mitch-fen/FennellBeirneBurton_2022)
 
